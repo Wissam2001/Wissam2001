@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Badia Ouissam 👋
 
 I am an **Independent Researcher** specializing in **Artificial Intelligence** and **Data Science**. My work focuses on exploring innovative solutions in machine learning, optimization, and computer vision.
 
